@@ -1,0 +1,17 @@
+body{
+  background-color:bisque;
+}
+h1{
+  color:rgb(31.235,86)
+}
+.content{
+  margin-left:40px;
+}
+.NovText{
+  width:300px;
+  height:100px;
+}
+.NovText p{
+  float:left;
+  margin-right:10px;
+}
